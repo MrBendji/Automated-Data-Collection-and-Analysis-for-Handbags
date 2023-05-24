@@ -1,0 +1,5 @@
+jsonFile_raw,jsonFile_prep,file_name_prep,file_name_final
+/home/deep/Bureau/fashionWebScraping/rawdata_DERIMOD.json,/home/deep/Bureau/fashionWebScraping/jsonFiles/prepdata_DERIMOD.json,prepdata_DERIMOD.json,finaldata_DERIMOD.json
+/home/deep/Bureau/fashionWebScraping/rawdata_HEPSIBURADA.json,/home/deep/Bureau/fashionWebScraping/jsonFiles/prepdata_HEPSIBURADA.json,prepdata_HEPSIBURADA.json,finaldata_HEPSIBURADA.json
+/home/deep/Bureau/fashionWebScraping/rawdata_HM.json,/home/deep/Bureau/fashionWebScraping/jsonFiles/prepdata_HM.json,prepdata_HM.json,finaldata_HM.json
+/home/deep/Bureau/fashionWebScraping/rawdata_KOTON.json,/home/deep/Bureau/fashionWebScraping/jsonFiles/prepdata_KOTON.json,prepdata_KOTON.json,finaldata_KOTON.json
